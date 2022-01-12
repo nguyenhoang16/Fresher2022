@@ -9,7 +9,7 @@
     <Button
         android:id="@+id/btnHello"
         android:layout_centerInParent="true"
-        android:text="Xin chào"
+        android:text="Xin chào bạn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content">
 
